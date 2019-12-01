@@ -2,3 +2,4 @@ https://github.com/acatovic/textrank
 https://github.com/kedz/summarization-datasets
 https://github.com/tapilab/is-karthikbmk
 https://stackoverflow.com/questions/45894212/installing-pyrouge-gets-error-in-ubuntu
+https://github.com/blendle/research-summarization
