@@ -7,3 +7,4 @@ https://github.com/echalkpad/snickebod
 https://github.com/MrRexZ/FYP-AutoTextSum
 https://github.com/summanlp/evaluation
 https://github.com/stuartmackie/duc-2004-rouge
+multi-document summarizer - https://github.com/eunbeejang/SumBasics
