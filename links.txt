@@ -4,3 +4,4 @@ https://github.com/tapilab/is-karthikbmk
 https://stackoverflow.com/questions/45894212/installing-pyrouge-gets-error-in-ubuntu
 https://github.com/blendle/research-summarization
 https://github.com/echalkpad/snickebod
+https://github.com/MrRexZ/FYP-AutoTextSum
