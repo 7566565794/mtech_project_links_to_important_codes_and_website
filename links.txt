@@ -9,3 +9,4 @@ https://github.com/summanlp/evaluation
 https://github.com/stuartmackie/duc-2004-rouge
 multi-document summarizer - https://github.com/eunbeejang/SumBasics
 https://github.com/yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing
+https://github.com/nlpyang/BertSum
