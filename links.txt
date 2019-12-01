@@ -5,3 +5,4 @@ https://stackoverflow.com/questions/45894212/installing-pyrouge-gets-error-in-ub
 https://github.com/blendle/research-summarization
 https://github.com/echalkpad/snickebod
 https://github.com/MrRexZ/FYP-AutoTextSum
+https://github.com/summanlp/evaluation
