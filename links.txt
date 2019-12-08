@@ -16,3 +16,4 @@ https://github.com/chakki-works
 https://github.com/VieZhong/data-preprocessing
 https://github.com/chakki-works/sumeval
 http://deeplearning.net/tutorial/code/logistic_sgd.py
+https://github.com/nikhilshirwandkar/ExtractiveTextSummarizationUsingDeepLearning
