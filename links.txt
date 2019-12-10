@@ -17,3 +17,4 @@ https://github.com/VieZhong/data-preprocessing
 https://github.com/chakki-works/sumeval
 http://deeplearning.net/tutorial/code/logistic_sgd.py
 https://github.com/nikhilshirwandkar/ExtractiveTextSummarizationUsingDeepLearning
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
